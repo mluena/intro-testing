@@ -18,11 +18,8 @@ function paddingLeft(initialString,stringLength,character){
   module.exports = paddingLeft;
 
 
-
-
-// module.exports = paddingLeft;
-
-//   Crear una función padding-left que se encarga de meter caracteres de relleno en un cadena por el lado izquierdo hasta llegar a un tamaño deseado. Toma 3 parámetros
+// Crear una función padding-left que se encarga de meter caracteres de relleno en un cadena 
+//por el lado izquierdo hasta llegar a un tamaño deseado. Toma 3 parámetros
 
 // La cadena inicial
 // Un tamaño final
